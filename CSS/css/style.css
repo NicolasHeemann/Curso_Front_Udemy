@@ -1,0 +1,25 @@
+body{
+    padding-bottom: 500px;
+}
+h3 {
+    color:aqua;
+}
+p{
+    color:cadetblue;
+}
+
+.paragrafo{
+    background-color: black;
+    color:aqua;
+    padding: 50px;
+}
+
+h2{
+    border-bottom: 2px solid red;
+}
+.titulo{
+    border-bottom: 2px solid blue;
+}
+#titulo{
+    border-bottom: 2px solid purple;
+}
