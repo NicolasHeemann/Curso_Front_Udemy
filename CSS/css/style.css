@@ -4,9 +4,7 @@ body{
 h3 {
     color:aqua;
 }
-p{
-    color:cadetblue;
-}
+
 
 .paragrafo{
     background-color: black;
@@ -22,4 +20,41 @@ h2{
 }
 #titulo{
     border-bottom: 2px solid purple;
+}
+
+.color-name{
+    color:rgb(118, 8, 30);
+}
+
+.hex{
+    color:#55a398;
+}
+
+.hex2{
+    color:#17a645;
+}
+
+.simple{
+    color: #AA55FF;
+}
+.hex-simple2{
+    color: #555;
+}
+.rgba{
+    color: rgba(100, 50, 74, 0.2);
+}
+
+.bg{
+    background-color: #000;
+    color: yellow;
+}
+
+.bg-2{
+    background-color: #456;
+    color: #AA55FF;
+}
+
+.bg-opacidade{
+    background-color: green;
+    opacity: 0.2;
 }
