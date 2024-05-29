@@ -58,3 +58,103 @@ h2{
     background-color: green;
     opacity: 0.2;
 }
+
+.bg-image{
+    color: aliceblue;
+    background-image: url("../img/2023-07-10 (1).png");
+}
+
+.naocentralizado,
+.centralizado{
+    height: 400px;
+    width: 400px;
+    background-image: url("../img/formula.png");
+}
+
+.centralizado{
+    background-position: center;
+    background-size: cover;
+}
+
+.height-width{
+
+    height: 200px;
+    width: 100px;
+    background-color: #17a645;
+}
+
+.height-width2{
+    height: 300px;
+    background-color: #000;
+}
+
+.sempadding,
+.compadding{
+    background-color: #551010;
+    color: #55a398;
+}
+
+.compadding{
+    padding: 20px;
+
+}
+.paddingind{
+    background-color: #AA55FF;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+}
+
+.shorthand-padding{
+    background-color: #17a645;
+    padding: 6px 12px 18px 24px;
+}
+
+.shorthand-padding-2{
+    background-color: #551010;
+    padding: 10px 20px;
+}
+
+.without-border-box{
+    background-color: #456;
+    color: yellowgreen;
+    width: 400px;
+    padding: 50px;
+}
+
+.border-box{
+    background-color: #666;
+    color: tomato;
+    width: 400px;
+    padding: 50px;
+    box-sizing: border-box;
+
+}
+
+.border{
+    border: 5px solid red;
+    padding: 10px;
+}
+
+.border-2{
+    border: 5px dotted #897;
+    padding: 20px;
+}
+
+.rounded-p{
+    border: 5px solid #000;
+    background-color: #17a645;
+    color: #551010;
+    padding: 15px;
+    border-radius: 13px;
+
+}
+
+.rounded-p-2{
+    border: 5px solid #000;
+    background-color: #17a645;
+    color: #551010;
+    padding: 15px;
+    border-radius: 30px;
+}
