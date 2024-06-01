@@ -1,0 +1,14 @@
+#box{
+margin: 20px ;
+padding: 20px;
+border: 5px solid #654;
+border-radius: 3px;
+outline: 5px solid #567 ;
+background-color: blue;
+}
+
+.texto{
+color: aqua;
+background-color: antiquewhite;
+border: none;
+}
